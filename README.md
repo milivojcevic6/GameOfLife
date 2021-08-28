@@ -1,5 +1,5 @@
 # GameOfLife
-Game of Life in 16-bit Assembler -> https://parraman.github.io/asm-simulator/
+Game of Life in 16-bit Assembler
 
 Is made to be run on the simulator has the following features:
   • A 16-bit big-endian CPU.
